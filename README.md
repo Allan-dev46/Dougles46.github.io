@@ -1,54 +1,36 @@
 # Currículo Online – Allan Fernandes
 
-Este repositório contém meu **currículo online desenvolvido em HTML**, publicado utilizando **GitHub Pages**.
+Currículo profissional desenvolvido em **HTML e CSS** e publicado via **GitHub Pages**, com foco em apresentação rápida e objetiva para recrutadores.
 
-O objetivo deste projeto é apresentar de forma clara e acessível meu perfil profissional, experiências, habilidades técnicas e projetos, servindo como **portfólio público** para recrutadores e empresas.
-
----
-
-## 🌐 Acesso ao currículo
-
-O currículo pode ser acessado diretamente pelo link:
-
-👉 https://allan-dev46.github.io
+🔗 **Acesso:** https://allan-dev46.github.io
 
 ---
 
-## Sobre o projeto
+## Sobre
 
-- Currículo desenvolvido em **HTML e CSS**
-- Estrutura simples, leve e de carregamento rápido
-- Foco em clareza, objetividade e leitura rápida para recrutadores
-- Hospedado gratuitamente via **GitHub Pages**
+Este projeto serve como meu **currículo online e portfólio público**, reunindo:
+- informações profissionais
+- habilidades técnicas
+- links para projetos
 
-Este projeto funciona como uma **vitrine profissional**, complementando meu GitHub e LinkedIn.
-
----
-
-## Tecnologias utilizadas
-
-- HTML5  
-- CSS3  
-- Git & GitHub  
-- GitHub Pages  
+O layout foi pensado para leitura rápida e fácil navegação.
 
 ---
 
-## Objetivo profissional
+## Tecnologias
 
-Utilizar este currículo online como ponto central para:
-- Apresentação profissional
-- Divulgação de projetos
-- Processos seletivos
-- Networking técnico
+- HTML5
+- CSS3
+- Git & GitHub
+- GitHub Pages
 
 ---
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/allan-fernandes1/?profileId=ACoAAFYQLPcBwBqp3iDiMquE7yQhMiseNny-Ng4
+- LinkedIn: https://www.linkedin.com/in/allan-fernandes1/
 - Email: allanfersil@gmail.com
 
 ---
 
- *Este repositório é atualizado conforme minha evolução profissional.*
+*Repositório mantido e atualizado conforme minha evolução profissional.*
